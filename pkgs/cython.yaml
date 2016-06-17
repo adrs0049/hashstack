@@ -1,7 +1,7 @@
 extends: [distutils_package]
 
 sources:
-- key: tar.gz:lebhjlenxupgftdz3fhlfyxuvzqm5ki2
+- key: tar.gz:14fbc970f4a856845e633cbc09e61048
   url: https://pypi.python.org/packages/b1/51/bd5ef7dff3ae02a2c6047aa18d3d06df2fb8a40b00e938e7ea2f75544cac/Cython-0.24.tar.gz#md5=14fbc970f4a856845e633cbc09e61048
 
 when_build_dependency:
